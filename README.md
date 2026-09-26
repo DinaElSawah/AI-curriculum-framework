@@ -33,12 +33,6 @@ Each domain runs across all seven years on a spiral progression model — revisi
 
 A curriculum that only teaches students to *use* AI tools is already out of date by the time they graduate. This framework instead asks students to investigate how AI systems are built, trained, evaluated, and improved — so the understanding transfers even as the specific tools change. Ethics isn't a separate unit bolted onto the end; it's embedded in every domain, every year.
 
-## Part of the portfolio series
-
-- [AI Enablement Playbook](https://github.com/DinaElSawah/ai-enablement-playbook) — designing organization-wide staff AI training
-- [GenAI Onboarding Workshop Kit](https://github.com/DinaElSawah/Genai-onboarding-workshop-kit) — a ready-to-run staff training session
-- [AI Adoption Scorecard](https://github.com/DinaElSawah/AI-adoption-scorecard) — measuring whether staff training is working
-- **AI Curriculum Framework (Years 3–9)** *(this repo)* — teaching AI literacy to students, from foundations to independent evaluation
 
 ## About
 
